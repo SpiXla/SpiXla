@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Golang, Html&Css**
 
-- 📫 How to reach me **aymanaitbihi9@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
