@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SpiXla</h1>
+<h1 align="center">Hi 👋, I'm Ayman</h1>
 <h3 align="center">A passionate Fullstack developer from Morocco</h3>
 
 - 🌱 I’m currently learning **Golang, Html&Css**
