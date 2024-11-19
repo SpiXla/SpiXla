@@ -1,8 +1,6 @@
 <h1 align="center"> Hi there, I'm SpiXla 👋 </h1>
 <h3 align="center">🌐 Web Developer | 🐹 Go Enthusiast | 🎨 Creative Problem Solver </h3>
 
-<p align="left"> <a href="https://twitter.com/msi7dnjal" target="blank"><img src="https://img.shields.io/twitter/follow/msi7dnjal?logo=twitter&style=for-the-badge" alt="msi7dnjal" /></a> </p>
-
 - 🔭 I’m currently working on [forum](https://github.com/SpiXla/forumm)
 
 <h3 align="left">Connect with me:</h3>
