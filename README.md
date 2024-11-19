@@ -1,6 +1,8 @@
 <h1 align="center"> Hi there, I'm SpiXla 👋 </h1>
 <h3 align="center">🌐 Web Developer | 🐹 Go Enthusiast | 🎨 Creative Problem Solver </h3>
 
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 - 🔭 I’m currently working on [forum](https://github.com/SpiXla/forumm)
 
 <h3 align="left">Connect with me:</h3>
