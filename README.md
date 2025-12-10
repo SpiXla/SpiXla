@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayman</h1>
-<h3 align="center"> I’m a software developer passionate about building clean, efficient, and reliable systems.
-I enjoy working on backend architectures, web applications, data processing, and anything that involves problem-solving.
-  
-I like turning ideas into real, functional applications — from CLI tools to full web platforms.
-Always learning, always improving, and always experimenting with new technologies.
 
-If you’re into backend development, clean code, or just curious about what I’m building, feel free to explore my repos! </h3>
+<p align="center">
+Backend-focused developer who loves building fast, clean, and reliable systems.  
+Always learning, exploring new tools, and turning ideas into real projects.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spixla&label=Profile%20views&color=0e75b6&style=flat" alt="spixla" /> </p>
 
