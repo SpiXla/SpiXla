@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ayman</h1>
 
 <p align="center">
-Backend-focused developer who loves building fast, clean, and reliable systems.  
-Always learning, exploring new tools, and turning ideas into real projects.
+I’m a software developer passionate about building clean, efficient, and reliable systems.  
+I enjoy working on backend architectures, web applications, data processing, and anything that involves problem-solving.  
+I like turning ideas into real, functional applications — from CLI tools to full web platforms.  
+Always learning, always improving, and always experimenting with new technologies.  
+If you’re into backend development, clean code, or curious about what I'm building, feel free to explore my repos!
 </p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spixla&label=Profile%20views&color=0e75b6&style=flat" alt="spixla" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spixla" alt="spixla" /></a> </p>
