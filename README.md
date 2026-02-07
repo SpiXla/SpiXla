@@ -15,7 +15,7 @@ If you’re into backend development, clean code, or curious about what I'm buil
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ayman ait bihi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayman ait bihi" height="30" width="40" /></a>
+
 <a href="https://discord.gg/https://discord.com/users/1162127790867497092" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/1162127790867497092" height="30" width="40" /></a>
 </p>
 
