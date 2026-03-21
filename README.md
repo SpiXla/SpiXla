@@ -33,5 +33,5 @@ Cybersecurity,specifically the offensive side—specializing in penetration test
 
 ## Socials
 [![Preview](/assets/linkedin.png)](https://www.linkedin.com/in/ayman-ait-bihi-232833297) &nbsp;
-[![Preview](/assets/discord.png)](https://www.discord.gg/spixlaaa) &nbsp;
+[![Preview](/assets/discord.png)](https://discord.com/channels/@me/1162127790867497092) &nbsp;
 
