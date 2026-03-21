@@ -1,4 +1,4 @@
-<h1 align="center">Ayman Full Stack Dev | Cybersecurity Enthusiast </h1>
+<h1 align="center">Ayman - Full Stack Dev | Cybersecurity Enthusiast </h1>
 
 <p align="center">
 I’m a software developer passionate about building clean, efficient, and reliable systems.  
