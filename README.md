@@ -1,11 +1,7 @@
 <h1 align="center">Ayman - Full Stack Dev | Cybersecurity Enthusiast </h1>
 
 <p align="center">
-I’m a software developer passionate about building clean, efficient, and reliable systems.  
-I enjoy working on backend architectures, web applications, data processing, and anything that involves problem-solving.  
-I like turning ideas into real, functional applications — from CLI tools to full web platforms.  
-Always learning, always improving, and always experimenting with new technologies.  
-If you’re into backend development, clean code, or curious about what I'm building, feel free to explore my repos!
+Full Stack Developer currently focused on Cybersecurity, specifically the offensive side—specializing in penetration testing.
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spixla&label=Profile%20views&color=0e75b6&style=flat" alt="spixla" /> </p>
 
